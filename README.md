@@ -2,6 +2,7 @@
 
 This project explores various possibilities for optimizing the performance of an Electric Arc Furnace (EAF), focusing on two main aspects: temperature optimization based on energy usage and electricity consumption optimization. The goal is to enhance efficiency and reduce energy consumption in the EAF process, which is crucial for the steel-making industry.
 
+
 ## Objective
 
 The main objectives of this project are:
